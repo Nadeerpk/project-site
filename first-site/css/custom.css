@@ -1,0 +1,11 @@
+body{
+	padding-top: 50px ;
+	padding-bottom: 20px;
+}
+ul.nav-link{
+font-family: 'Baskervville', serif;
+
+}
+.jumbotron{
+	text-align: center;
+}
